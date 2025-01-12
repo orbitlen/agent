@@ -21,7 +21,7 @@
     "@elizaos/plugin-bootstrap": "0.1.7",
     "@elizaos/plugin-image-generation": "0.1.7",
     "@elizaos/plugin-node": "0.1.7",
-    "@elizaos/plugin-solana": "file:./packages/plugin-solana",
+    "@elizaos/plugin-solana-orbitlen": "file:./packages/plugin-solana-orbitlen",
     "@elizaos/plugin-starknet": "0.1.7",
     "@tavily/core": "0.0.2",
     "amqplib": "0.10.5",
@@ -49,5 +49,5 @@
   },
   "workspaces": [
     "packages/*"
-]
+  ]
 }
